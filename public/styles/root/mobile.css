@@ -1,0 +1,90 @@
+/* For mobile devices */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+html {
+    overflow-y: scroll;
+}
+
+main {
+    flex-direction: column-reverse;
+    align-items: center;
+}
+
+section {
+    width: 100%;
+}
+
+/* Icons */
+
+.Icons {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.MongoDB-Icon {
+    width: 70%;
+    height: 70%;
+}
+
+.Heroku-Icon {
+    width: 90%;
+    height: 90%;
+}
+.Mobile-Hidden{
+    display: none;
+}
+
+/*********** "About Us" text ************/
+
+.Text {
+    color: black;
+    font-size: 20px;
+    width: 70%;
+
+    padding-bottom: 100px;
+}
+
+/*********** Sign Up Form ************/
+
+.Form-Container {
+    padding-bottom: 30px;
+}
+
+.Form-field {
+    width: 60%;
+}
+
+.Form-Text-input {
+    font-size: 20px;
+}
+
+.Form-Submit-Btn {
+    font-size: 23px;
+    font-family: 'Lato', sans-serif;
+    padding: 2px 10px 2px 10px;
+}
+
+.Flash-Alert-Message {
+    font-size: 20px;
+}
+
+
+/****************************************/
+
+
+.Sign-In-Container-Para-Container {
+    margin-right: 5px;
+}
+
+.Sign-In-Container-Para-Container p {
+    color: black;
+}
+
+.Sign-In-Container-Anchor-Container {
+    width: max-content;
+}
+

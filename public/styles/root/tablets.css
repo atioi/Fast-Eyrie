@@ -1,0 +1,28 @@
+/* For devices with minimum width that equals 768px */
+
+.Icons {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Sign-In-Container {
+    padding-bottom: 0;
+}
+
+.Sign-In-Container-Para-Container {
+    margin-right: 5px;
+}
+
+.Sign-In-Container-Para-Container p {
+    color: black;
+}
+
+.Sign-In-Container-Anchor-Container {
+    width: max-content;
+}
+
+
+

@@ -1,0 +1,66 @@
+/* Icons */
+
+.Icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Pug-Icon {
+    width: 30%;
+    height: 30%;
+}
+
+.Decoration-None {
+    text-decoration: none;
+}
+
+.Express-Icon {
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    color: #444;
+}
+
+
+.MongoDB-Icon {
+    width: 50%;
+    height: 50%;
+}
+
+.Heroku-Icon {
+    width: 80%;
+    height: 80%;
+}
+
+
+/***************************/
+
+
+
+.Nav-Log-In {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.Nav-Log-In-Anchor {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+/* This is container that is under the Sign Up form in root file.*/
+
+.Sign-In-Container {
+    padding-bottom: 40px;
+    padding-top: 10px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+

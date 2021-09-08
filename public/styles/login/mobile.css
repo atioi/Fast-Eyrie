@@ -1,0 +1,19 @@
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+section {
+    width: 100%;
+}
+
+.Text-container {
+    margin-top: 100px;
+}
+
+.Form-field {
+    width: 60%;
+}
+
+
